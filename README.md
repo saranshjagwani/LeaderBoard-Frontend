@@ -110,5 +110,5 @@ Feel free to open issues or pull requests to improve the app!
 
 ---
 
-Let me know if you'd like this tailored for **Vite**, **Create React App**, or if you're using **Next.js**. Also, I can add badges (build status, stars, etc.) if you're deploying it.
+
 ```
