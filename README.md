@@ -1,12 +1,4 @@
-Here's a clean, professional, and well-structured `README.md` file for your **Leaderboard Frontend** built with React and Tailwind CSS.
 
-You can place this file in your frontend project root (`client/README.md` or wherever your frontend code is).
-
----
-
-### ✅ `README.md`
-
-```markdown
 # 🏆 LeaderBoard Frontend
 
 This is the frontend for the **Leaderboard System**, built using **React.js** and **Tailwind CSS**. The application allows users to:
